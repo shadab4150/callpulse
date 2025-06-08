@@ -1,0 +1,10 @@
+streamlit
+openai==1.68.0
+requests
+pandas==2.1.1
+python-dotenv
+pymongo
+joblib
+tqdm 
+google-genai
+fastapi[standard]
